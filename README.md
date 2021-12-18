@@ -10,4 +10,4 @@ You can find among them:
  - AR coeeficients
 
 -----------------------------------------------------
-* It was created in the scope of biological signals analysis course BME 2020 at the Technion
+*It was created in the scope of biological signals analysis course BME 2020 at the Technion
